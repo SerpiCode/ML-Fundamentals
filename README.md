@@ -7,3 +7,6 @@ Repositório onde implemento algoritmos famosos de Machine Learning e os aplico 
 
 ## Linear Regression
 <img width="700" height="350" src="img/linear_regression.png">
+
+## Logistic Regression
+<img width="700" height="350" src="img/logistic_r.png">
