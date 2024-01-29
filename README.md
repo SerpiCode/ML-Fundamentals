@@ -10,3 +10,7 @@ Repositório onde implemento algoritmos famosos de Machine Learning e os aplico 
 
 ## Logistic Regression
 <img width="700" height="450" src="img/logistic_r.png">
+
+## Perceptron
+<img width="700" height="450" src="img/perceptron_training.png">
+<img width="700" height="450" src="img/perceptron_predictions.png">
